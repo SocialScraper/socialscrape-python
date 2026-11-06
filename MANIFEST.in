@@ -1,0 +1,2 @@
+# Tests need the repository's ss_* packages and fixtures, so they cannot run from an sdist.
+prune tests
