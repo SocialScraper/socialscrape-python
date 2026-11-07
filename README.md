@@ -2,7 +2,7 @@
 
 Social media data as an API: profiles, posts, comments, search, ads and
 transcripts across platforms, in one response shape. This is the official Python
-client for the [SocialScrape API](https://socialscrape.dev/docs).
+client for the [SocialScrape API](https://socialscrape.dev/docs?utm_source=github&utm_medium=repo&utm_campaign=socialscrape-sdk).
 
 - Sync (`SocialScrape`) and asyncio (`AsyncSocialScrape`) clients on `httpx`.
 - Typed methods per endpoint, grouped by platform; responses typed with `TypedDict`s.
